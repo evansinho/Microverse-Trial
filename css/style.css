@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(238, 237, 237);
+}
+header #nav-bar {
+    display: flex;
+    margin-top: 5px;
+}
+ul li {
+    display: inline;
+    text-align: right;
+    padding: 20px; 
+    font-size: large;
+   
+}
+ul {
+    margin-left: 60rem;
+    
+}
+ul li a{
+     text-decoration: none;
+}
+h1 {
+    color: blue;
+    font-size: 40px;
+    margin-left: 10px;
+    margin-top: -5px;
+}
